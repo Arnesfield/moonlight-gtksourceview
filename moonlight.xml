@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<style-scheme id="moonlight" name="Moonlight" version="1.0">
+  <_description>Moonlight theme based on https://github.com/atomiks/moonlight-vscode-theme</_description>
+
+  <color name="black" value="#000000" />
+  <color name="blue" value="#7cafff" />
+  <color name="bright-black" value="#828bb8" />
+  <color name="cyan" value="#78dbff" />
+  <color name="green" value="#c3e88d" />
+  <color name="magenta" value="#c4a2ff" />
+  <color name="red" value="#ff757f" />
+  <color name="white" value="#c8d3f5" />
+  <color name="yellow" value="#ffc777" />
+
+  <color name="background" value="#1e2030" />
+  <color name="current-line" value="#2f334d" />
+  <color name="line-numbers" value="#444a73" />
+  <color name="match" value="#52598cbb" />
+  <!-- preserve display color #3d415a (alpha 0.298) -->
+  <color name="selection" value="#868fbd4c" />
+  <color name="ruler" value="#52598c69" />
+
+  <style name="bracket-match" foreground="blue" underline="true" />
+  <style name="current-line" background="current-line" />
+  <style name="cursor" foreground="blue" />
+  <style name="line-numbers" foreground="line-numbers" />
+  <style name="right-margin" foreground="ruler" />
+  <style name="search-match" background="match" />
+  <style name="selection" background="selection" />
+  <style name="text" foreground="white" background="background" />
+</style-scheme>
