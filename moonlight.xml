@@ -14,6 +14,7 @@
 
   <color name="background" value="#1e2030" />
   <color name="current-line" value="#2f334d" />
+  <color name="foreground" value="#d5def8" />
   <color name="line-numbers" value="#444a73" />
   <color name="match" value="#52598cbb" />
   <!-- preserve display color #3d415a (alpha 0.298) -->
@@ -27,5 +28,5 @@
   <style name="right-margin" foreground="ruler" />
   <style name="search-match" background="match" />
   <style name="selection" background="selection" />
-  <style name="text" foreground="white" background="background" />
+  <style name="text" foreground="foreground" background="background" />
 </style-scheme>
