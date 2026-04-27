@@ -16,15 +16,16 @@
   <color name="current-line" value="#2f334d" />
   <color name="foreground" value="#d5def8" />
   <color name="line-numbers" value="#444a73" />
-  <color name="match" value="#52598cbb" />
+  <color name="match" value="#005cb469" />
   <!-- preserve display color #3d415a (alpha 0.298) -->
   <color name="selection" value="#868fbd4c" />
   <color name="ruler" value="#52598c69" />
 
   <style name="bracket-match" foreground="blue" underline="true" />
   <style name="current-line" background="current-line" />
+  <style name="current-line-number" foreground="bright-black" />
   <style name="cursor" foreground="blue" />
-  <style name="line-numbers" foreground="line-numbers" />
+  <style name="line-numbers" foreground="line-numbers" background="background" />
   <style name="right-margin" foreground="ruler" />
   <style name="search-match" background="match" />
   <style name="selection" background="selection" />
